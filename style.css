@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#home {
+    min-height: 60vh; 110
+}
+
+
+
+#courselist {
+    min-height: 165vh;  
+    background: rgb(226, 232, 240);
+    background: linear-gradient(21deg, rgba(226, 232, 240, 1) 3%, rgba(226, 232, 240, 1) 100%);
+}
+
+
+#coursedescription {
+    min-height: 110vh;    160vh
+    background: rgb(226, 232, 240);
+    background: linear-gradient(90deg, rgba(226, 232, 240, 1) 3%, rgba(226, 232, 240, 1) 100%);
+}
+
+#coursedescription .container-fluid .b1 {
+    padding-top: 130px;
+}
+
+.container-fluid .row .col .card {
+    height: 240px;
+
+}
+
+.full {
+    margin-top: 80px;
+}
+
+
+#portfolio{
+    min-height: 50vh ; 130vh
+}
+
+
+#testimonal{
+    min-height: 70vh ; 160vh
+    background: rgb(226, 232, 240);
+    background: linear-gradient(90deg, rgba(226, 232, 240, 1) 3%, rgba(226, 232, 240, 1) 100%);
+}
+
+
+#testimonal .container .row .col .card{
+
+    height: 470px;
+    border-radius: 20px;
+}
+
+#needtoknow{
+    min-height: 60vh ;  130vh
+}
+
+#footer{
+    min-height: 28vh ;  60vh
+    background: rgb(226, 232, 240);
+    background: linear-gradient(90deg, rgba(226, 232, 240, 1) 3%, rgba(226, 232, 240, 1) 100%);
+
+   }
